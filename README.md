@@ -24,7 +24,7 @@ cd ImageClassification
 pip install -r requirements.txt
 
 *Run the Streamlit app:
-streamlit run streamlit_app.py
+streamlit run app.py
 
 Upload an image and see the model predict whether the person is happy or sad.
 
