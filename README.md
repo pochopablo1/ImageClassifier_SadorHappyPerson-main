@@ -32,11 +32,11 @@ This repository focuses on image classification, specifically determining whethe
 
 Upload an image and see the model predict whether the person is happy or sad.
 
-##Results
+## Results
 Trained a deep learning model achieving high accuracy on the validation set.
 Deployed a Streamlit web application for real-time image classification.
 
-##Connect with Me
+## Connect with Me
 📧 Email: pablo.santilli7@gmail.com
 🌐 LinkedIn: LinkedIn.com/in/pablosantilli
 
