@@ -9,10 +9,10 @@ This repository focuses on image classification, specifically determining whethe
 -Providing a Streamlit web application for real-time image classification.
 
 ##Project Structure
-data/: Contains image datasets for happy and sad people.
-models/: Holds the saved trained model (happysadmodel.h5).
-image_classification.ipynb: Jupyter Notebook with the entire project pipeline.
-streamlit_app.py: Streamlit web application for live image classification.
+-data/: Contains image datasets for happy and sad people.
+-models/: Holds the saved trained model (happysadmodel.h5).
+-image_classification.ipynb: Jupyter Notebook with the entire project pipeline.
+-app.py: Streamlit web application for live image classification.
 
 ##Usage
 
