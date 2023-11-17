@@ -1,19 +1,19 @@
-##Project Overview
-
+Image Classification: Happy or Sad Person
+Project Overview
 This repository focuses on image classification, specifically determining whether a person in an image is happy or sad. The project includes:
--Data cleaning to ensure high-quality images.
--Preprocessing to scale pixel values between 0 and 1.
--Building a deep learning model using TensorFlow and Keras.
--Training the model on a dataset containing happy and sad images.
--Evaluating the model's performance using precision, recall, and binary accuracy metrics.
--Providing a Streamlit web application for real-time image classification.
 
-##Project Structure
--data/: Contains image datasets for happy and sad people.
--models/: Holds the saved trained model (happysadmodel.h5).
--image_classification.ipynb: Jupyter Notebook with the entire project pipeline.
--app.py: Streamlit web application for live image classification.
-
+Data Cleaning: Ensuring high-quality images for robust model training.
+Preprocessing: Scaling pixel values between 0 and 1 to enhance model performance.
+Deep Learning Model: Constructing a powerful model using TensorFlow and Keras.
+Model Training: Training on a dataset containing happy and sad images.
+Performance Evaluation: Assessing the model using precision, recall, and binary accuracy metrics.
+Streamlit Web Application: Offering a user-friendly interface for real-time image classification.
+Project Structure
+data/: Contains image datasets for happy and sad people.
+models/: Holds the saved trained model (happysadmodel.h5).
+image_classification.ipynb: Jupyter Notebook with the complete project pipeline.
+app.py: Streamlit web application for live image classification.
+Usage
 ##Usage
 
 *Clone the repository:
